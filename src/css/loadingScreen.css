@@ -1,0 +1,35 @@
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  color: white;
+}
+
+.loading-screen p {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.loading-screen p:nth-child(1) {
+  margin-bottom: 20px; /* Adjust spacing between text and loading indicator */
+}
+
+/* cursor */
+.cursor {
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+}

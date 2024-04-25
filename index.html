@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+    />
+
+    <style>
+      :root {
+        --cursorXpos: 50vw;
+        --cursorYpos: 50vh;
+      }
+
+      :root::before {
+        content: "";
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        background: radial-gradient(
+          circle 30rem at var(--cursorXpos) var(--cursorYpos),
+          rgba(255, 255, 255, 0),
+          rgba(0, 0, 0, 0.416) 100%
+        );
+        z-index: -1;
+      }
+    </style>
+
+    <title>Vindi</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    <script>
+      function trackMouse(event) {
+        document.documentElement.style.setProperty(
+          `--cursorXpos`,
+          `${event.clientX}px`
+        );
+
+        document.documentElement.style.setProperty(
+          `--cursorYpos`,
+          `${event.clientY}px`
+        );
+      }
+
+      document.addEventListener("mousemove", trackMouse);
+    </script>
+  </body>
+</html>
