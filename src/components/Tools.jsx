@@ -18,7 +18,7 @@ export const projects = [
     ],
   },
   {
-    link: "https://massage-chez-vous-ep4bh4wk8-vindi-tech.vercel.app/",
+    link: "https://massage-chez-vous.vercel.app/",
     month: "January",
     year: "2024",
     role: "lead junior Frontend Developer",
