@@ -33,7 +33,7 @@ export const projects = [
     ],
   },
   {
-    link: "https://xl-mua-jewelry-3spmxnas1-vindi-tech.vercel.app/",
+    link: "https://xl-mua-jewelry.vercel.app/",
     month: "February",
     year: "2024",
     role: "lead junior Frontend Developer",

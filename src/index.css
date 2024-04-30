@@ -358,7 +358,7 @@ body {
     color: white;
     position: sticky;
     width: 100%;
-    top: 5px;
+    top: 0px;
     backdrop-filter: blur(15px);
     padding: 20px 10px;
     margin-left: -10px;
