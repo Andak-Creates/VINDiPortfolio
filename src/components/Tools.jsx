@@ -32,19 +32,33 @@ export const projects = [
       },
     ],
   },
-  // {
-  //   link: "",
-  //   month: "february",
-  //   year: "2024",
-  //   role: "lead junior Frontend Developer",
-  //   title: "Xcel Mua Jewelry",
-  //   desc: "Built, styled and created a jewelry blog website",
-  //   languages: [
-  //     {
-  //       html: "HTML",
-  //       css: "CSS",
-  //       react: "REACT",
-  //     },
-  //   ],
-  // },
+  {
+    link: "https://xl-mua-jewelry-3spmxnas1-vindi-tech.vercel.app/",
+    month: "February",
+    year: "2024",
+    role: "lead junior Frontend Developer",
+    title: "XL Mua & Jewelry",
+    desc: "styled and created an 80% functional jewelry blog website, still in the building process which I'll continue when I'm done with my exams",
+    languages: [
+      {
+        html: "HTML",
+        css: "CSS",
+        react: "REACT",
+      },
+    ],
+  },
+  {
+    link: "https://lorem-glass.vercel.app/",
+    month: "February",
+    year: "2024",
+    role: "lead junior Frontend Developer",
+    title: "Lorem Glass",
+    desc: "Created a Demo project with 0% functionality, to be completed after exams, I don't really know what the website is for yet but, yeah",
+    languages: [
+      {
+        html: "HTML",
+        css: "CSS",
+      },
+    ],
+  },
 ];
