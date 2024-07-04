@@ -12,8 +12,8 @@ const DisplayContent = () => {
             {" "}
             Hi, My name is <span>Kelvin Andak</span>, also known as{" "}
             <span>VindiCodes</span> and I am a certified{" "}
-            <span>junior frontend developer</span> with over 1yr of experience
-            in creating and building <span>accessible</span> and{" "}
+            <span>junior frontend developer</span> with over a year of
+            experience in creating and building <span>accessible</span> and{" "}
             <span>pixel perfect websites</span>
           </p>
 
