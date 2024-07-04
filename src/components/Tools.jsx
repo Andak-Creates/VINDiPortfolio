@@ -3,17 +3,14 @@ export const projects = [
     link: "https://vindi-bridgedemo.netlify.app",
     month: "february",
     year: "2023",
-    role: "lead junior Frontend Developer",
+    role: "Frontend Developer",
     title: "bridge demo website",
-    desc: "Built, styled and created a demo project for a real estate website as a class project",
+    desc: "Built, styled and created a demo project for a real estate website as a class project using basic JavaScript functionalities",
     languages: [
       {
         html: "HTML",
         css: "CSS",
         javascript: "JAVASCRIPT",
-        // react: "REACT",
-        // bootstrap: "BOOTSTRAP",
-        // angular: "ANGULAR",
       },
     ],
   },
@@ -21,9 +18,9 @@ export const projects = [
     link: "https://massage-chez-vous.vercel.app/",
     month: "January",
     year: "2024",
-    role: "lead junior Frontend Developer",
+    role: "Frontend Developer",
     title: "Massage Chez Vous",
-    desc: "Built, styled and created a fully functional demo website for a growing mobile massage company located in Lagos Nigeria",
+    desc: "Built, styled and created a functional demo website for a growing mobile massage company located in Lagos Nigeria using React/JavaScript functionalities",
     languages: [
       {
         html: "HTML",
@@ -36,9 +33,9 @@ export const projects = [
     link: "https://xl-mua-jewelry.vercel.app/",
     month: "February",
     year: "2024",
-    role: "lead junior Frontend Developer",
+    role: "Frontend Developer",
     title: "XL Mua & Jewelry",
-    desc: "styled and created an 80% functional jewelry blog website, still in the building process which I'll continue when I'm done with my exams",
+    desc: "styled and created a functional jewelry website using React",
     languages: [
       {
         html: "HTML",
@@ -51,13 +48,29 @@ export const projects = [
     link: "https://lorem-glass.vercel.app/",
     month: "February",
     year: "2024",
-    role: "lead junior Frontend Developer",
+    role: "Frontend Developer",
     title: "Lorem Glass",
-    desc: "Created a Demo project with 0% functionality, to be completed after exams, I don't really know what the website is for yet but, yeah",
+    desc: "Created a fully functional and responsive demo project",
     languages: [
       {
         html: "HTML",
         css: "CSS",
+        javascript: "JavaScript",
+      },
+    ],
+  },
+  {
+    link: "https://master--josi-barbershop.netlify.app/",
+    month: "June",
+    year: "2024",
+    role: "Frontend Developer",
+    title: "Josi Barbershop",
+    desc: "Created a fully functional and responsive website for a barbing saloon located in Delta State Abraka, using frontend functionalities",
+    languages: [
+      {
+        html: "HTML",
+        css: "CSS",
+        javascript: "JavaScript",
       },
     ],
   },

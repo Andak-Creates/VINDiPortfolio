@@ -12,8 +12,8 @@ const DisplayContent = () => {
             {" "}
             Hi, My name is <span>Kelvin Andak</span>, also known as{" "}
             <span>VindiCodes</span> and I am a certified{" "}
-            <span>junior frontend developer</span> with a little over 1yr of
-            experience in creating and building <span>accessible</span> and{" "}
+            <span>junior frontend developer</span> with over 1yr of experience
+            in creating and building <span>accessible</span> and{" "}
             <span>pixel perfect websites</span>
           </p>
 
@@ -27,10 +27,10 @@ const DisplayContent = () => {
 
           <p>
             Besides being a Frontend Developer, I also happen to be an upcoming
-            Nigerian artist. I enjoy reading books, be it about self
-            development, tech, thriller or fantasy. hanging out with friends is
-            also one of my favorite activities. and I am secretly{" "}
-            <span>Batman</span>
+            Nigerian artist. I go by the stage name <span>ANDAK</span>. I enjoy
+            reading books, be it about self development, tech, thriller or
+            fantasy. hanging out with friends is also one of my favorite
+            activities.
           </p>
         </div>
       </div>
@@ -86,11 +86,7 @@ const DisplayContent = () => {
 
       <div className="footNote">
         <p>
-          Loosely designed in{" "}
-          <span>
-            <a href="www.figma.com">Figma</a>
-          </span>{" "}
-          and coded in{" "}
+          this website was created in{" "}
           <span>
             <a href="www.visualstudio.com">Visual Studio Code</a>
           </span>{" "}
