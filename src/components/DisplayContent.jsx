@@ -20,14 +20,14 @@ const DisplayContent = () => {
           <p>
             My main focus is building accessible user interfaces for people. I
             most enjoy building things that look good but are also built well
-            under the hood. with time, I plan to start a Youtube channel to
-            teach and help people overcome challanges i went through in my first
+            under the hood. with time, I plan on starting a Youtube channel to
+            teach and help people overcome challanges I went through in my first
             year of being a frontend developer.
           </p>
 
           <p>
             Besides being a Frontend Developer, I also happen to be an upcoming
-            Nigerian artist. I go by the stage name <span>ANDAK</span>. I enjoy
+            Nigerian artist. I go by the name <span>ANDAK</span>. I enjoy
             reading books, be it about self development, tech, thriller or
             fantasy. hanging out with friends is also one of my favorite
             activities.
@@ -81,7 +81,8 @@ const DisplayContent = () => {
         ))}
       </div>
       <div className="endOfExpo">
-        <a href="">View Full Résumé</a> <i className="bi bi-arrow-up-right"></i>
+        <a href="andakResume.pdf">View Full Résumé</a>{" "}
+        <i className="bi bi-arrow-up-right"></i>
       </div>
 
       <div className="footNote">

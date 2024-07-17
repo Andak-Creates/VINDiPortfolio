@@ -71,17 +71,11 @@ const Navigation = () => {
 
       {/* Footer links */}
       <div className="footLinks">
-        <a href="">
+        <a href="https://github.com/Andak-Creates">
           <i className="bi bi-github"></i>
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/vindicode.tech?igsh=ZTdzZjllemZuaWcx&utm_source=qr">
           <i className="bi bi-instagram"></i>
-        </a>
-        <a href="">
-          <i className="bi bi-twitter-x"></i>
-        </a>
-        <a href="">
-          <i className="bi bi-tiktok"></i>
         </a>
       </div>
     </div>
