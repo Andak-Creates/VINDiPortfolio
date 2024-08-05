@@ -69,7 +69,7 @@ const Navigation = () => {
           <i className="bi bi-instagram"></i>
         </a>
 
-        <a href="mailto:kelvinandak@gmail.com">
+        <a href="mailto:kelvinandak@gmail.com?subject=Hello%20Kelvin&body=I%20am%20interested%20in%20your%20services.">
           <i className="bi bi-envelope"></i>
         </a>
 
