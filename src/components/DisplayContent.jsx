@@ -12,17 +12,15 @@ const DisplayContent = () => {
             {" "}
             Hi, My name is <span>Kelvin Andak</span>, also known as{" "}
             <span>VindiCodes</span> and I am a certified{" "}
-            <span>junior frontend developer</span> with over a year of
-            experience in creating and building <span>accessible</span> and{" "}
-            <span>pixel perfect websites</span>
+            <span>Mid-Level frontend developer</span> with a little over two
+            years of experience in creating and building <span>accessible</span>{" "}
+            and <span>pixel perfect web experiences</span>
           </p>
 
           <p>
-            My main focus is building accessible user interfaces for people. I
-            most enjoy building things that look good but are also built well
-            under the hood. with time, I plan on starting a Youtube channel to
-            teach and help people overcome challanges I went through in my first
-            year of being a frontend developer.
+            My main focus is building accessible user interfaces. I enjoy
+            building applications that do not only look good but that are also
+            built well under the hood.
           </p>
 
           <p>
