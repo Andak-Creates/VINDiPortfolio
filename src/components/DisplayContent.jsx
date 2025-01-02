@@ -10,23 +10,22 @@ const DisplayContent = () => {
         <div className="aboutDeets">
           <p>
             {" "}
-            Hi, My name is <span>Kelvin Andak</span>, also known as{" "}
-            <span>VindiCodes</span> and I am a certified{" "}
-            <span>Mid-Level frontend developer</span> with a little over two
-            years of experience in creating and building <span>accessible</span>{" "}
-            and <span>pixel perfect web experiences</span>
+            Hi, My name is <span>Kelvin Andakuro</span> and I am a{" "}
+            <span>frontend developer</span> with a passion in building{" "}
+            <span>user-friendly</span>, <span>accessible</span> and{" "}
+            <span>pixel perfect web experiences</span>
           </p>
 
           <p>
-            My main focus is building accessible user interfaces. I enjoy
-            building applications that do not only look good but that are also
-            built well under the hood.
+            My main focus is building <span>accessible user interfaces</span>. I
+            enjoy building applications that do not only look good but that are
+            also well built under the hood.
           </p>
 
           <p>
-            Besides being a Frontend Developer, I also happen to be an upcoming
-            Nigerian artist. I go by the name <span>ANDAK</span>. I enjoy
-            reading books, be it about self development, tech, thriller or
+            Besides being a <span>Frontend Developer</span>, I also happen to be
+            an upcoming Nigerian artist. I go by the name <span>ANDAK</span>. I
+            enjoy reading books, be it about self development, tech, thriller or
             fantasy. hanging out with friends is also one of my favorite
             activities.
           </p>
@@ -79,7 +78,7 @@ const DisplayContent = () => {
         ))}
       </div>
       <div className="endOfExpo">
-        <a href="andakResume.pdf">View Full Résumé</a>{" "}
+        <a href="kelvinAndakuroResume.pdf">View Full Résumé</a>{" "}
         <i className="bi bi-arrow-up-right"></i>
       </div>
 

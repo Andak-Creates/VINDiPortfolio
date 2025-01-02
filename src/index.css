@@ -122,7 +122,8 @@ body {
 }
 
 #about span {
-  color: white;
+  color: #70cad0;
+  cursor: pointer;
 }
 
 #about h4 {

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import LoadingScreen from "./components/LoadingScreen";
 import "./css/loadingScreen.css";
 import Navigation from "./components/Navigation";

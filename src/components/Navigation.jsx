@@ -33,7 +33,7 @@ const Navigation = () => {
       <div className="desc">
         <h1>Kelvin Andak</h1>
         <h2>Mid-Level Front End Developer</h2>
-        <small>VindiCodes</small>
+
         <p>
           I build pixel-perfect, engaging, and accessible digital experiences.
         </p>
@@ -65,16 +65,16 @@ const Navigation = () => {
         <a href="https://github.com/Andak-Creates">
           <i className="bi bi-github"></i>
         </a>
-        <a href="https://www.instagram.com/vindicode.tech?igsh=ZTdzZjllemZuaWcx&utm_source=qr">
-          <i className="bi bi-instagram"></i>
+        <a href="https://www.twitter.com/kelvinacoder">
+          <i className="bi bi-twitter-x"></i>
         </a>
 
         <a href="mailto:kelvinandak@gmail.com?subject=Hello%20Kelvin&body=I%20am%20interested%20in%20your%20services.">
           <i className="bi bi-envelope"></i>
         </a>
 
-        <a href="tel:08101432389">
-          <i class="bi bi-telephone"></i>
+        <a href="https://www.linkedin.com/in/kelvin-andakuro-2618b92bb/">
+          <i className="bi bi-linkedin"></i>
         </a>
       </div>
     </div>
