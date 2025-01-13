@@ -32,7 +32,7 @@ const Navigation = () => {
     <div className="navigate">
       <div className="desc">
         <h1>Kelvin Andak</h1>
-        <h2>Mid-Level Front End Developer</h2>
+        <h2>Front-End Developer</h2>
 
         <p>
           I build pixel-perfect, engaging, and accessible digital experiences.
