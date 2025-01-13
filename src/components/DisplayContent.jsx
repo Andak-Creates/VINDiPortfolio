@@ -90,7 +90,7 @@ const DisplayContent = () => {
           </span>{" "}
           by{" "}
           <span>
-            <a href="#">VindiCodes</a>
+            <a href="#">Kelvin Andakuro</a>
           </span>
           . Built with React, Html & CSS, deployed with
           <span>
