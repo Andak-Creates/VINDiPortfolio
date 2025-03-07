@@ -74,4 +74,20 @@ export const projects = [
       },
     ],
   },
+
+  {
+    link: "https://my-ticket-app-seven.vercel.app/",
+    month: "February",
+    year: "2025",
+    role: "Frontend Developer",
+    title: "Ticket Booking App",
+    desc: "Built a modern ticketing platform with React and hosted on Vercel. It allows users to seamlessly book event tickets with a user-friendly interface ensuring smooth user ",
+    languages: [
+      {
+        html: "HTML",
+        css: "CSS",
+        react: "REACT",
+      },
+    ],
+  },
 ];

@@ -10,7 +10,7 @@ const DisplayContent = () => {
         <div className="aboutDeets">
           <p>
             {" "}
-            Hi, My name is <span>Kelvin Andakuro</span> and I am a{" "}
+            Hi, My name is <span>Kelvin Andakuro</span> and I am an aspiring{" "}
             <span>frontend developer</span> with a passion in building{" "}
             <span>user-friendly</span>, <span>accessible</span> and{" "}
             <span>pixel perfect web experiences</span>
